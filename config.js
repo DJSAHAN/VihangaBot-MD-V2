@@ -17,19 +17,19 @@ global.APIKeys = {
 }
 
 //Owner React
-global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9476342733' //මෙතන number එක.
+global.OWNER_REACT = '🌴' //මෙතනට emoji එකක දාන්න.
+global.REACT_NUMBER = '94784458880' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
+global.owner = ['94784458880',''] //මෙතන number එක.
 global.premium = ['9476342733','9476342733'] //මෙතන number එක.
-global.botname = 'VIHANGA BOT INC' //මෙතන නම.
-global.ownername = 'Vihanga MD' //මෙතන නම.
+global.botname = 'SAHAN BOT INC' //මෙතන නම.
+global.ownername = 'SAHAN MD' //මෙතන නම.
 global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
-global.group1 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
-global.group2 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
-global.packname = 'VIHANGA BOT INC' //මෙතන නම.
-global.cap = '*By Vihanga MD*' //මෙතන නම.
+global.group1 = 'https://chat.whatsapp.com/Lefs4AtRmb984hNucLwYcG' //මෙතන grouplink එක.
+global.group2 = 'https://chat.whatsapp.com/Lefs4AtRmb984hNucLwYcG'//මෙතන grouplink එක.
+global.packname = 'SAHAN BOT INC' //මෙතන නම.
+global.cap = '*By SAHAN MD*' //මෙතන නම.
 global.img = 'https://telegra.ph/file/88d6fdeff08bbc4945901.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
 global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
